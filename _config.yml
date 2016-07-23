@@ -1,0 +1,14 @@
+layout_spectrum: 0.8064046348445117
+typography_spectrum: 0.5942434065509588
+color:
+  brandStrength: 0.3380719367414713
+  lightness: 0.357732335338369
+  saturation: 0.9117420166730881
+  rhythmicContrast: 0.5525405860971659
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: Escorial Portfolio
